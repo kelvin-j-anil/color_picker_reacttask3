@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/color_picker_reacttask3/static/css/main.db798329.css",
+    "main.js": "/color_picker_reacttask3/static/js/main.18b9f6aa.js",
+    "index.html": "/color_picker_reacttask3/index.html",
+    "main.db798329.css.map": "/color_picker_reacttask3/static/css/main.db798329.css.map",
+    "main.18b9f6aa.js.map": "/color_picker_reacttask3/static/js/main.18b9f6aa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db798329.css",
+    "static/js/main.18b9f6aa.js"
+  ]
+}
